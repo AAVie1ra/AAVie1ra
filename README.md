@@ -17,7 +17,7 @@ Linguagens que uso e estou estudando 👾🤓
   <img  align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />              
   
 </div>
-______________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________
 <br> <br>
 
 <div>
