@@ -3,9 +3,11 @@
  <div>
    <a href="https://github.com/AAVie1ra">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AAVie1ra&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+   <br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAVie1ra&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
-    <br>
+    
+<br>    
 <div style="display: inline_block">
 
 Linguagens que uso e estou estudando 👾🤓
