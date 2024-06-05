@@ -3,7 +3,6 @@
  <div>
    <a href="https://github.com/AAVie1ra">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AAVie1ra&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-   <br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAVie1ra&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
     
@@ -22,6 +21,7 @@ Linguagens que uso e estou estudando 👾🤓
 ____________________________________________________________________________________________________________________________
 <br> <br>
 
+Redes sociais e meios para contato
 <div>
   <a href = "mailto:arthuraugustovieira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-augusto-vieira-2718a7280" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
