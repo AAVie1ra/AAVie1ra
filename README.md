@@ -1,4 +1,6 @@
-<strong> Bem-vindo ao meu perfil 😁 </strong>
+<h1>Olá sou Arthur Augusto </h1>
+<br>
+<strong>Bem-vindo ao meu perfil 😁 </strong>
 
  <div>
    <a href="https://github.com/AAVie1ra">
@@ -25,4 +27,5 @@ ________________________________________________________________________________
 <div>
   <a href = "mailto:arthuraugustovieira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-augusto-vieira-2718a7280" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://www.instagram.com/arthur_augusto.v/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
