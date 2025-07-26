@@ -1,6 +1,13 @@
 <h1>Olá sou Arthur Augusto </h1>
 <br>
 <strong>Bem-vindo ao meu perfil 😁 </strong>
+<p>Sou aluno do curso Desenvolvimento de Sistemas do AMS (Articulação da Formação Profissional Média e Superior ) na Fatec-Americana.
+
+O curso funciona de forma totalmente presencial e em um período de cinco anos, o estudante conclui os ensinos nos níveis Médio, Técnico e Superior.
+
+Nos três primeiros anos, nós cursamos o Ensino Médio integrado ao Técnico e desenvolvemos 200 horas de formação profissional em uma empresa parceira, no nosso caso a IBM. Sem Vestibular, é possível fazer um curso superior de tecnologia do mesmo eixo tecnológico, que será concluído em mais dois anos.
+
+No momento estou fazendo alguns cursos extras e desenvolvendo projetos, dentre eles meu portfólio, para me desafiar e garantir que serei um bom profissional na área de tecnologia. </p>
 
  <div>
    <a href="https://github.com/AAVie1ra">
