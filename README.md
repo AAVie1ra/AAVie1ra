@@ -1,4 +1,4 @@
-<h1>Olá sou Arthur Augusto </h1>
+<h1>Olá sou <em>Arthur Augusto</em> </h1>
 <br>
 <strong>Bem-vindo ao meu perfil 😁 </strong>
 <p>Sou aluno do curso Desenvolvimento de Sistemas do AMS (Articulação da Formação Profissional Média e Superior ) na Fatec-Americana.
