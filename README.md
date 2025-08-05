@@ -11,6 +11,12 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AAVie1ra&bg_color=000000&color=1E90FF&line=1E90FF&point=042fc9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AAVie1ra/AAVie1ra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AAVie1ra/AAVie1ra/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AAVie1ra/AAVie1ra/output/github-contribution-grid-snake.svg">
+</picture>
+<br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AAVie1ra&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
