@@ -20,7 +20,7 @@
 <details>
   <summary>🔎 Mais sobre mim</summary>
 
-  - 💬 Tenho 17 anos de idade, atualmente morando em Americana-SP. Possuo inglês intermediário e conhecimento em gestão de riscos de segurança, manuseio de banco de dados(MySQL), desenvolvimento web e noções de programação em python e C#. No momento, estou estudando segurança cibernética usando cursos como o Certificado Profissional de Segurança cibernética do Google e outros recursos da web para aprender habilidades como gerenciamento de riscos, politicas de segurança e analise e resposta a incidentes.
+  - 💬 Tenho 17 anos de idade, atualmente morando em Americana-SP. Possuo inglês intermediário e conhecimento em gestão de riscos de segurança, manuseio de banco de dados(MySQL), desenvolvimento web e noções de programação em python e C#. No momento, estou estudando segurança cibernética usando cursos como o Certificado Profissional de Segurança cibernética do Google e outros recursos da web para aprender habilidades como gerenciamento de riscos, politicas de segurança e analise e resposta a incidentes cibernéticos.
 
   - ⚡ Valorizo ética, responsabilidade com informações sensíveis e melhoria contínua, contribuindo para ambientes tecnológicos mais seguros e eficientes.
 </details>
