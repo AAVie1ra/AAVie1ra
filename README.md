@@ -79,12 +79,8 @@
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   </div>
-  
 
 
-
-
-<br>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
