@@ -27,7 +27,7 @@
 <br>
 
 <!-- Links -->
-[![LinkedIn](https://www.linkedin.com/in/arthur-augusto-vieira?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://www.linkedin.com/in/arthur-augusto-vieira/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthuraugustovieira@gmail.com)
 
 
